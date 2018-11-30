@@ -1,3 +1,6 @@
+/* This css file is linked to the index.html file */
+
+
 body {
     font-size: 14px;
     color: 3C3C3C;
@@ -6,7 +9,6 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-/* This is a comment, by the way */
 
 p {
     line-height: 21px;
