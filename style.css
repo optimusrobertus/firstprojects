@@ -65,4 +65,7 @@ li {
 
 table {
     background-color: #ccc;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: black;
 }
