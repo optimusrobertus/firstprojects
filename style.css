@@ -27,6 +27,7 @@ h1 {
     border-bottom-style: solid;
     border-bottom-width: 5em;
     border-bottom-color: #c00;
+    text-transform: uppercase;
 }
 
 h2 {
