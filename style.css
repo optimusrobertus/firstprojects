@@ -15,17 +15,17 @@ p {
 }
 
 h1 {
-    color: #ffc;
-    background-color: #900;
-    font-size: 2em;
+    color: #000101;
+    background-color: #01CCFE;
+    font-size: 3em;
     margin: 0;
-    margin-bottom: 7px;
+    margin-bottom: 12px;
     padding: 4px;
     font-style: italic;
     text-align: center;
-    letter-spacing: 0.5em;
+    letter-spacing: 0.3em;
     border-bottom-style: solid;
-    border-bottom-width: 0.5em;
+    border-bottom-width: 5em;
     border-bottom-color: #c00;
 }
 
