@@ -4,7 +4,7 @@
 body {
     font-size: 14px;
     color: 3C3C3C;
-    background: url(https://www.wsupercars.com/wallpapers/Ford/1969-Ford-Mustang-428-Super-Cobra-Jet-V3-1080.jpg) no-repeat;
+    background: url(https://www.wsupercars.com/wallpapers/Ford/1969-Ford-Mustang-428-Super-Cobra-Jet-V3-1080.jpg) repeat;
     margin: 20px;
     font-family: 'Open Sans', sans-serif;
 }
