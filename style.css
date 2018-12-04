@@ -20,13 +20,12 @@ h1 {
     color: #000101;
     background-color: #01CCFE;
     font-size: 3em;
-    margin: 0;
-    margin-bottom: 12px;
+    margin: 0px;
     padding: 4px;
     font-style: bold;
     text-align: center;
     border-bottom-style: solid;
-    border-bottom-width: 5em;
+    border-bottom-width: 1em;
     border-bottom-color: #c00;
     text-transform: capitalize;
 }
