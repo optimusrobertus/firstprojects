@@ -11,7 +11,9 @@ body {
 
 
 p {
-    line-height: 21px;
+    border-width: 10px 20px;
+    padding: 20px 10px;
+    border: 2px blue dotted;
 }
 
 h1 {
