@@ -64,4 +64,5 @@ table {
     border-style: dotted;
     border-width: 5px;
     border-color: black;
+    display: block;
 }
