@@ -3,7 +3,7 @@
 
 body {
     font-size: 14px;
-    color: yellow;
+    color: white;
     background: url(https://www.wsupercars.com/wallpapers/Ford/1969-Ford-Mustang-428-Super-Cobra-Jet-V3-1080.jpg) repeat;
     margin: 20px;
     font-family: 'Open Sans', sans-serif;
@@ -17,7 +17,7 @@ p {
 }
 
 h1 {
-    color: #000101;
+    color: black;
     background-color: #01CCFE;
     font-size: 3em;
     font-style: bold;
@@ -35,7 +35,7 @@ h2 {
 }
 
 h3 {
-    color: #999;
+    color: white;
     font-size: 1.25em;
 }
 
